@@ -8,6 +8,7 @@
     "assets": "assets"
   },
   "scripts": {
+    "build": "cp android* apple* browser* favicon* index* mstile* safari* site* ./docs && cp -r assets ./docs",
     "start": "live-server"
   },
   "repository": {
