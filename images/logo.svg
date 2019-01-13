@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="musicwriterLogoFinal.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="76.280718"
+     inkscape:cy="967.82147"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 97.168836,46.704544 c 0,0 -0.0615,-18.329794 -0.15142,-16.231874 -0.0471,1.09828 -2.8462,16.532724 -6.47061,11.385794 -1.41454,-2.008764 -1.02457,-8.092154 -1.13169,-6.480284 -0.54063,8.134494 -3.93118,10.401604 -3.93118,10.401604 0,0 -0.78576,0.69356 -1.64565,0.84644 -0.42828,0.0761 -1.03543,0.0783 -1.03543,0.0783"
+       id="path4585"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssscsc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:'Triangle v7';-inkscape-font-specification:'Triangle v7';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="97.772499"
+       y="45.993366"
+       id="text4599"><tspan
+         sodipodi:role="line"
+         id="tspan4597"
+         x="97.772499"
+         y="45.993366"
+         style="font-size:3.88055563px;stroke-width:0.26458332">usic</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:1.25;font-family:'Triangle v7';-inkscape-font-specification:'Triangle v7';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="109.07134"
+       y="50.54467"
+       id="text4603"><tspan
+         sodipodi:role="line"
+         id="tspan4601"
+         x="109.07134"
+         y="50.54467"
+         style="font-size:3.88055563px;stroke-width:0.26458332">riter</tspan></text>
+    <path
+       sodipodi:nodetypes="cssscsc"
+       inkscape:connector-curvature="0"
+       id="path4623"
+       d="m 97.168836,46.704544 c 0,0 0.0615,18.32979 0.15142,16.23187 0.0471,-1.09828 2.846204,-16.53272 6.470614,-11.38579 1.41454,2.00876 1.02457,8.09215 1.13169,6.48028 0.54063,-8.13449 3.93118,-10.4016 3.93118,-10.4016 0,0 0.78576,-0.69356 1.64565,-0.84644 0.42828,-0.0761 1.03543,-0.0783 1.03543,-0.0783"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>

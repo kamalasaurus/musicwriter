@@ -1,0 +1,24 @@
+{
+  "name": "musicwriter",
+  "version": "1.0.0",
+  "description": "consumer facing site for musicwriter",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "images": "images"
+  },
+  "scripts": {
+    "build": "cp index.* ./docs && cp -r images ./docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamalasaurus/musicwriter.git"
+  },
+  "keywords": [],
+  "author": "kamalasaurus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamalasaurus/musicwriter/issues"
+  },
+  "homepage": "https://github.com/kamalasaurus/musicwriter#readme"
+}
