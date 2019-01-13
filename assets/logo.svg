@@ -19,7 +19,7 @@
   <defs
      id="defs2">
     <style>
-      @import url('../index.css');
+      @import url('./index.css');
     </style>
   </defs>
   <sodipodi:namedview

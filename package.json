@@ -2,13 +2,13 @@
   "name": "musicwriter",
   "version": "1.0.0",
   "description": "consumer facing site for musicwriter",
-  "main": "index.js",
+  "main": "./assets/index.js",
   "directories": {
     "doc": "docs",
-    "images": "images"
+    "assets": "assets"
   },
   "scripts": {
-    "build": "cp index.* ./docs && cp -r assets ./docs"
+    "start": "live-server"
   },
   "repository": {
     "type": "git",
