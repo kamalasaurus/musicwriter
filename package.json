@@ -8,7 +8,7 @@
     "images": "images"
   },
   "scripts": {
-    "build": "cp index.* ./docs && cp -r images ./docs"
+    "build": "cp index.* ./docs && cp -r assets ./docs"
   },
   "repository": {
     "type": "git",

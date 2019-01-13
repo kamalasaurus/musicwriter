@@ -1,11 +1,19 @@
+@font-face {
+  font-family: 'Triangle v7';
+  src: url('./assets/TriangleFontV7.otf');
+}
+
 * {
   margin: 0;
   padding: 0;
 }
 
-html, body {}
+html, body {
+  width: 100%;
+}
 
 object {
+  font-family: 'Triangle v7';
   margin: 0 auto;
 }
 
