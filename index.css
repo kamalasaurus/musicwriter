@@ -12,7 +12,8 @@ html, body {
   width: 100%;
 }
 
-object {
+img {
+  display: block;
   font-family: 'Triangle v7';
   margin: 0 auto;
 }
