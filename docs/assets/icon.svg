@@ -17,7 +17,11 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="musicwriterLogoFinalMWonly.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <style>
+      @import url('../index.css');
+    </style>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
