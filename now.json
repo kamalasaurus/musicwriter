@@ -1,0 +1,10 @@
+{
+    "version": 2,
+    "alias": [
+        "www.musicwriter.org"
+    ],
+    "routes": [
+       { "src": "/(.*)", "status": 301, "headers": { "Location": "https://musicwriter.org/$1" }}
+    ]
+}
+
